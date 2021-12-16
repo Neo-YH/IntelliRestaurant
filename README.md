@@ -1,6 +1,6 @@
 # IntelliRestaurant
 
-The Internet has brought more and more business opportunities and convenient life. Many years ago, there was no Meituan, and booking a taxi by your mobile phone and online payment were not easy to reach.
+The Internet has brought more and more business opportunities and convenient life. Many years ago, there was no Meituan, booking a taxi by your mobile phone or online payment were not easy to reach.
 
 Many years ago, I always wanted to make a word memory software, but I didn't have this ability. Until many years later, I saw excellent software such as 100 Word Chopping, Shell and so on. That's why I chose to learn programming, but today, I'm still a rookie. So I want to open source all my ideas, sounds ridiculous, ha? What if someone really realizes it in the future, or I have the opportunity to participate in it, I will become a lucky ... lucky rookie.
 
